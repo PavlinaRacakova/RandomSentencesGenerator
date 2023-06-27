@@ -1,0 +1,50 @@
+school
+office
+library
+coffee shop
+park
+beach
+mall
+stadium
+post office
+police station
+fire station
+hospital
+restaurant
+museum
+gym
+barbershop
+bakery
+bookstore
+farm
+gas station
+hardware store
+ice cream shop
+pet store
+subway station
+swimming pool
+tennis court
+church
+mosque
+synagogue
+bowling alley
+golf course
+car wash
+hair salon
+pharmacy
+laundromat
+playground
+hotel
+airport
+train station
+city hall
+bank
+grocery store
+movie theater
+concert venue
+dance studio
+university
+conference center
+art gallery
+yoga studio
+community center

@@ -1,0 +1,70 @@
+tiger trainer
+dolphin therapist
+butterfly farmer
+penguin rescuer
+koala rescuer
+snake milker
+jellyfish biologist
+panda nanny
+cheetah tracker
+alpaca shearer
+marine biologist
+parrot trainer
+rhino guardian
+otter keeper
+dog groomer
+falcon breeder
+ostrich farmer
+bear wrangler
+alligator wrestler
+kangaroo trainer
+accountant
+architect
+baker
+carpenter
+dentist
+engineer
+firefighter
+graphic designer
+hair stylist
+interior designer
+journalist
+librarian
+musician
+nurse
+optometrist
+photographer
+police officer
+teacher
+veterinarian
+waiter/waitress
+chef
+lawyer
+electrician
+farmer
+pilot
+plumber
+scientist
+social worker
+actor/actress
+banker
+chemist
+doctor
+florist
+gardener
+hotel manager
+IT specialist
+mechanic
+pharmacist
+salesperson
+translator
+writer
+astronaut
+business analyst
+coach
+economist
+fashion designer
+historian
+marketing manager
+professor
+receptionist
