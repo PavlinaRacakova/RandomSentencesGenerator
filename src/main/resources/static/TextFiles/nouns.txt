@@ -37,7 +37,7 @@ photographer
 police officer
 teacher
 veterinarian
-waiter/waitress
+waitress
 chef
 lawyer
 electrician
@@ -46,7 +46,7 @@ pilot
 plumber
 scientist
 social worker
-actor/actress
+actress
 banker
 chemist
 doctor
