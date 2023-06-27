@@ -23,7 +23,7 @@ public class RandomSentencesGeneratorController {
         ModelAndView modelAndView = new ModelAndView("generator");
         modelAndView.addObject("firstAdjective", readRandomWord("src\\main\\resources\\static\\TextFiles\\adjectives.txt").orElse(unknown));
         modelAndView.addObject("firstNoun", readRandomWord("src\\main\\resources\\static\\TextFiles\\nouns.txt").orElse(unknown));
-        modelAndView.addObject("secondAdjective", readRandomWord("src\\main\\resources\\static\\TextFiles\\adjectives.txt").orElse(unknown).toLowerCase());
+        modelAndView.addObject("secondAdjective", readRandomWord("src\\main\\resources\\static\\TextFiles\\adjectives.txt").orElse(unknown));
         modelAndView.addObject("secondNoun", readRandomWord("src\\main\\resources\\static\\TextFiles\\nouns.txt").orElse(unknown));
         modelAndView.addObject("verb", readRandomWord("src\\main\\resources\\static\\TextFiles\\verbs.txt").orElse(unknown));
         modelAndView.addObject("place", readRandomWord("src\\main\\resources\\static\\TextFiles\\places.txt").orElse(unknown));

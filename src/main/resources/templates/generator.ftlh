@@ -15,7 +15,7 @@
 </head>
 <body>
 
-    <h1>${firstAdjective} ${firstNoun} and ${secondAdjective} ${secondNoun} are ${verb} at ${place}.</h1>
+    <h1>${firstAdjective} ${firstNoun} and ${secondAdjective?lower_case} ${secondNoun} are ${verb} at ${place}.</h1>
 
     <div class="button">
         <a href="http://localhost:8080/generator">Again</a>
